@@ -1,15 +1,15 @@
 <?php
 /*
  * Plugin Name: ZeroPad
- * Plugin URI: http://amiiby.com
+ * Plugin URI: https://github.com/miyabi-satoh/ZeroPad
  * Description: Zero-padded when only %post_id% is used for permalink.
  * Version: 20190316
- * Author: miyabi
- * Author URI: http://amiiby.com
+ * Author: miyabi-satoh
+ * Author URI: https://github.com/miyabi-satoh
  * License: GPLv3
  *
  *  ZeroPad - Zero-padded when only %post_id% is used for permalink.
- *  Copyright 2019 miyabi
+ *  Copyright 2019 miyabi-satoh
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
